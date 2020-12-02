@@ -1,0 +1,10 @@
+.userImage{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    margin: 0 12px;
+    
+}
+.nav-item {
+    cursor: pointer;
+}
